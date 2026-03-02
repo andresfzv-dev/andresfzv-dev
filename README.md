@@ -1,16 +1,14 @@
-## Hi there 👋
+👨🏻‍💻 Andrés Felipe Zambrano
 
-<!--
-**andresfzv-dev/andresfzv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer | React – Spring Boot – Docker
 
-Here are some ideas to get you started:
+## Sobre mí
+Estudiante de Ingeniería de Sistemas y ADSO enfocado en desarrollo backend y arquitectura de software. Actualmente construyendo proyectos fullstack con seguridad JWT y bases de datos relacionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Java
+- Spring Boot
+- React
+- MySQL
+- Docker
+- Git
