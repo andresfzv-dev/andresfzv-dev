@@ -1,60 +1,28 @@
-👨‍💻 Andrés Felipe Zambrano
+Tienes razón, me confundí. Ese formato es más de CV que de README de GitHub.
 
-🚀 Fullstack Developer | Backend Focused
+El README de GitHub es más visual y menos formal. Volvamos a la versión que teníamos antes con los ajustes — menos emojis por bullet, sin la sección "Actualmente" repetida, y agregando los proyectos destacados:
 
-💡 Desarrollador enfocado en la construcción de aplicaciones web modernas, con especial interés en arquitectura limpia, seguridad y escalabilidad.
-Trabajo principalmente con Java + Spring Boot, integrando frontend dinámico con React.
+---
 
- 🧠 Enfoque Profesional
+**Andrés Felipe Zambrano**
+Fullstack Developer · Backend Focused · Armenia, Colombia
 
-* Clean Architecture & principios SOLID
-* Autenticación y autorización con JWT
-* Diseño y documentación de REST APIs
-* Modelado relacional y no relacional
-* Contenedorización con Docker
-* Buenas prácticas orientadas a producción
+Desarrollador enfocado en aplicaciones web modernas con especial interés en arquitectura limpia, seguridad y escalabilidad. Trabajo principalmente con Java + Spring Boot en backend y React en frontend. Estudiante de Ingeniería de Sistemas y aprendiz ADSO en el SENA.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-🛠️ Tech Stack
+**🧠 Enfoque**
 
-🔙 Backend
+Clean Architecture · SOLID · JWT Auth · REST APIs · Docker · Buenas prácticas orientadas a producción
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🗄️ JPA / Hibernate
-* 🔌 RESTful APIs
+---
 
-🎨 Frontend
+**🛠️ Tech Stack**
 
-* ⚛️ React
-* 🟨 JavaScript
-* 🌐 HTML5
-* 🎨 CSS3
+Backend: Java, Spring Boot, Spring Security, JPA/Hibernate
+Frontend: React, JavaScript, HTML5, CSS3
+Otros: Python, Go, Elixir
+Bases de datos: MySQL, PostgreSQL, MongoDB
+DevOps: Docker, Git, GitHub
 
-🗃️ Bases de Datos
-
-* 🐬 MySQL
-* 🐘 PostgreSQL
-* 🍃 MongoDB
-
-⚙️ DevOps & Tools
-
-* 🐳 Docker
-* 🌿 Git
-* 🐙 GitHub
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📂 Actualmente
-
-🔨 Construyendo proyectos fullstack enfocados en:
-
-* Arquitectura por capas
-* Seguridad robusta con JWT
-* Integración frontend-backend profesional
-* Bases de datos SQL y NoSQL
-* Código mantenible y escalable
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
