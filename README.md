@@ -13,10 +13,14 @@ Clean Architecture · SOLID · JWT Auth · REST APIs · Docker · Buenas prácti
 
 **🛠️ Tech Stack**
 
-Backend: Java, Spring Boot, Spring Security, JPA/Hibernate
-Frontend: React, JavaScript, HTML5, CSS3
-Otros: Python, Go, Elixir
-Bases de datos: MySQL, PostgreSQL, MongoDB
-DevOps: Docker, Git, GitHub
+*Backend: Java, Spring Boot, Spring Security, JPA/Hibernate
+
+*Frontend: React, JavaScript, HTML5, CSS3
+
+*Otros: Python, Go, Elixir
+
+*Bases de datos: MySQL, PostgreSQL, MongoDB
+
+*DevOps: Docker, Git, GitHub
 
 ---
