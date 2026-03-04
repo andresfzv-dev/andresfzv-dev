@@ -1,5 +1,5 @@
 **Andrés Felipe Zambrano**
-Fullstack Developer · Backend Focused · Armenia, Colombia
+Fullstack Developer · Backend Focused · Armenia, Colombia | https://www.linkedin.com/in/andres-zambrano-21841a31a/
 
 Desarrollador enfocado en aplicaciones web modernas con especial interés en arquitectura limpia, seguridad y escalabilidad. Trabajo principalmente con Java + Spring Boot en backend y React en frontend. Estudiante de Ingeniería de Sistemas y aprendiz ADSO en el SENA.
 
@@ -13,14 +13,14 @@ Clean Architecture · SOLID · JWT Auth · REST APIs · Docker · Buenas prácti
 
 **🛠️ Tech Stack**
 
-*Backend: Java, Spring Boot, Spring Security, JPA/Hibernate
+* Backend: Java, Spring Boot, Spring Security, JPA/Hibernate
 
-*Frontend: React, JavaScript, HTML5, CSS3
+* Frontend: React, JavaScript, HTML5, CSS3
+ 
+* Otros: Python, Go, Elixir
 
-*Otros: Python, Go, Elixir
+* Bases de datos: MySQL, PostgreSQL, MongoDB
 
-*Bases de datos: MySQL, PostgreSQL, MongoDB
-
-*DevOps: Docker, Git, GitHub
+* DevOps: Docker, Git, GitHub
 
 ---
